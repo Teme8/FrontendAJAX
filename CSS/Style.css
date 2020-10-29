@@ -1,0 +1,31 @@
+
+p h2 {
+    padding: 40px;
+    font-family: 'Domine', serif;
+}
+
+p {
+    font-family: 'Domine', serif;
+    padding: 5px;
+    text-align: left;
+    width: 800px;
+    flex-wrap: wrap;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: aqua;
+}
+
+a {
+    margin: 40px;
+    text-decoration: none;
+}
+
+a:link {
+    color: dodgerblue;
+}
+
+a:visited {
+    color: darkgrey;
+}
